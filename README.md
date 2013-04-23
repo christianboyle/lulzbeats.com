@@ -1,4 +1,4 @@
-Lulzbeats mix site
-==================
+Mix Site
+========
 
 http://lulzbeats.com
